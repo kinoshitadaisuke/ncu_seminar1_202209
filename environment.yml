@@ -1,0 +1,4 @@
+dependencies:
+  - astropy
+  - jplephem
+  - python=3.9
